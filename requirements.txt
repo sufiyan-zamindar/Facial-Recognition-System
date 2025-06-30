@@ -1,8 +1,0 @@
-streamlit
-deepface==0.0.75
-tensorflow==2.11.0
-opencv-python
-scikit-learn
-numpy
-pandas
-
