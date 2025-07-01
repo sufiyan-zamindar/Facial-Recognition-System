@@ -73,6 +73,6 @@ if uploaded_file is not None:
 
         st.image(cv2.cvtColor(image, cv2.COLOR_BGR2RGB),
                  caption="Detected Face(s)",
-                 use_column_width=True)
+                 use_container_width=True)
 
 st.markdown("---\n✅ *Built with Streamlit + OpenCV Haar Cascade — No dlib required!*")
